@@ -8,6 +8,7 @@
 
 # 💻 Internships
 - *2023.05 - 2024.03*, Huawei 2012 lab, Shenzhen.
+- *2024.05 - 2024.07*, Tencent AI lab, Shenzhen.
 <!-- - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou. -->
 
 # 🎵 Music Backgroud
