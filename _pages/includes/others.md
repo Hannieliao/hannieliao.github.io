@@ -34,7 +34,7 @@
               framespacing="0" 
               allowfullscreen="true" 
               class="d-block w-100" 
-              style="height: 500px;"></iframe>
+              style="height: 300px;"></iframe>
     </div>
     <!-- QQ 音乐链接 -->
     <div class="carousel-item">
