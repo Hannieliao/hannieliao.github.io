@@ -15,17 +15,17 @@
 - Guzheng (Chinese instrumental exam-Grade 9)
 - Vice president of the 100-member music club
 
-<!-- 引入 Bootstrap CSS -->
+<!-- Bootstrap CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
-<!-- 引入 Bootstrap JS 和 Popper.js -->
+<!-- Bootstrap JS and Popper.js -->
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
 
-<!-- Carousel 结构 -->
+<!-- Carousel -->
 <div id="mediaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
-    <!-- 嵌入的 Bilibili 视频，跳转至15:50，不自动播放 -->
+    <!-- Instrument -->
     <div class="carousel-item active">
       <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=6677795&bvid=BV1Es41147Gr&cid=10871767&p=1&t=950" 
               scrolling="no" 
@@ -33,23 +33,17 @@
               frameborder="no" 
               framespacing="0" 
               allowfullscreen="true" 
-              class="d-block w-100" 
+              class="d-block w-60" 
               style="height: 300px;"></iframe>
     </div>
-    <!-- 嵌入的 QQ 音乐播放器 -->
+    <!-- Singing Link -->
     <div class="carousel-item">
-      <iframe src="https://kg.qq.com/node/play?s=9edXNO9LjXnDM98Z&shareuid=639f94802c28348c3d&abtype=13&shareDescABType=1&topsource=&chain_share_id=3v-oqKuMLAtAKdvYSOj3uQ5BVp-iJeHRNLzq6Pe51Ec&pageId=details_of_creations"
-              scrolling="no"
-              border="0"
-              frameborder="no"
-              framespacing="0"
-              allowfullscreen="true"
-              class="d-block w-100"
-              style="height: 300px;"></iframe>
+      <a href="https://kg.qq.com/node/play?s=9edXNO9LjXnDM98Z&shareuid=639f94802c28348c3d&abtype=13&shareDescABType=1&topsource=&chain_share_id=3v-oqKuMLAtAKdvYSOj3uQ5BVp-iJeHRNLzq6Pe51Ec&pageId=details_of_creations" target="_blank">
+        <img src="images/song.jpg" class="d-block w-60" alt="QQ Music">
+      </a>
     </div>
   </div>
-
-  <!-- 左右导航按钮 -->
+  <!-- Mapping -->
   <button class="carousel-control-prev" type="button" data-bs-target="#mediaCarousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
