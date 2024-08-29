@@ -14,3 +14,7 @@
 # 🎵 Music Backgroud
 - Guzheng (Chinese instrumental exam-Grade 9)
 - Vice president of the 100-member music club
+
+# 📚 Class
+- Digital Processing of Speech Signals (A)
+- Introduction to Statistical Learning Theory (A-)
