@@ -33,13 +33,13 @@
               frameborder="no" 
               framespacing="0" 
               allowfullscreen="true" 
-              class="d-block w-60" 
+              class="d-block w-100" 
               style="height: 300px;"></iframe>
     </div>
     <!-- Singing Link -->
     <div class="carousel-item">
       <a href="https://kg.qq.com/node/play?s=9edXNO9LjXnDM98Z&shareuid=639f94802c28348c3d&abtype=13&shareDescABType=1&topsource=&chain_share_id=3v-oqKuMLAtAKdvYSOj3uQ5BVp-iJeHRNLzq6Pe51Ec&pageId=details_of_creations" target="_blank">
-        <img src="images/song.jpg" class="d-block w-60" alt="QQ Music">
+        <img src="images/song.jpg" class="d-block" alt="QQ Music" style="width: 60%; height: auto; margin: 0 auto;">
       </a>
     </div>
   </div>
