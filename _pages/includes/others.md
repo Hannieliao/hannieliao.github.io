@@ -27,7 +27,7 @@
   <div class="carousel-inner">
     <!-- Instrument -->
     <div class="carousel-item active">
-      <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=6677795&bvid=BV1Es41147Gr&cid=10871767&p=1&t=950" 
+      <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=6677795&bvid=BV1Es41147Gr&cid=10871767&p=1&t=960" 
               scrolling="no" 
               border="0" 
               frameborder="no" 
