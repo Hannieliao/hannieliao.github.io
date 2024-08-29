@@ -25,13 +25,9 @@
 <!-- Carousel 结构 -->
 <div id="mediaCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
-    <!-- 第一张图片 -->
+    <!-- 嵌入的 Bilibili 视频，跳转至15:50，不自动播放 -->
     <div class="carousel-item active">
-      <img src="image1.jpg" class="d-block w-100" alt="Image 1">
-    </div>
-    <!-- 嵌入的 Bilibili 视频 -->
-    <div class="carousel-item">
-      <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=6677795&bvid=BV1Es41147Gr&cid=10871767&p=1" 
+      <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=6677795&bvid=BV1Es41147Gr&cid=10871767&p=1&t=950" 
               scrolling="no" 
               border="0" 
               frameborder="no" 
@@ -40,9 +36,11 @@
               class="d-block w-100" 
               style="height: 500px;"></iframe>
     </div>
-    <!-- 第二张图片 -->
+    <!-- QQ 音乐链接 -->
     <div class="carousel-item">
-      <img src="image2.jpg" class="d-block w-100" alt="Image 2">
+      <a href="https://kg.qq.com/node/play?s=9edXNO9LjXnDM98Z&shareuid=639f94802c28348c3d&abtype=13&shareDescABType=1&topsource=&chain_share_id=3v-oqKuMLAtAKdvYSOj3uQ5BVp-iJeHRNLzq6Pe51Ec&pageId=details_of_creations" target="_blank">
+        <img src="https://via.placeholder.com/800x400.png?text=Click+to+listen+on+QQ+Music" class="d-block w-100" alt="QQ Music">
+      </a>
     </div>
   </div>
 
