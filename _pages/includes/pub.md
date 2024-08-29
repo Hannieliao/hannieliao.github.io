@@ -26,5 +26,6 @@ Haonan Han<sup>★</sup>, Rui Yang<sup>★</sup>, **Huan Liao**<sup>★</sup>, J
 
 [**[Project]**](https://reparo2024.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Paper]**](https://arxiv.org/pdf/2405.18525) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/VincentHancoder/REPARO?tab=readme-ov-file) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
 </div>
