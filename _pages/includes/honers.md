@@ -3,4 +3,4 @@
 - *2023.10* Second Class Scholarship at Tsinghua Shenzhen International Graduate School
 - *2023.08* Tsinghua & Huawei - Information and Media Technology Outstanding Practice Project
 - *2022.06* Outstanding Graduate and Outstanding College Student Party Members of Hunan Province
-- *2021.10* National Scholarship (Undergraduate) (Top 1%)
+- *2021.10* **National Scholarship** (Top 1%)
