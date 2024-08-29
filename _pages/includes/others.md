@@ -36,11 +36,16 @@
               class="d-block w-100" 
               style="height: 300px;"></iframe>
     </div>
-    <!-- QQ 音乐链接 -->
+    <!-- 嵌入的 QQ 音乐播放器 -->
     <div class="carousel-item">
-      <a href="https://kg.qq.com/node/play?s=9edXNO9LjXnDM98Z&shareuid=639f94802c28348c3d&abtype=13&shareDescABType=1&topsource=&chain_share_id=3v-oqKuMLAtAKdvYSOj3uQ5BVp-iJeHRNLzq6Pe51Ec&pageId=details_of_creations" target="_blank">
-        <img src="https://via.placeholder.com/800x400.png?text=Click+to+listen+on+QQ+Music" class="d-block w-100" alt="QQ Music">
-      </a>
+      <iframe src="https://kg.qq.com/node/play?s=9edXNO9LjXnDM98Z&shareuid=639f94802c28348c3d&abtype=13&shareDescABType=1&topsource=&chain_share_id=3v-oqKuMLAtAKdvYSOj3uQ5BVp-iJeHRNLzq6Pe51Ec&pageId=details_of_creations"
+              scrolling="no"
+              border="0"
+              frameborder="no"
+              framespacing="0"
+              allowfullscreen="true"
+              class="d-block w-100"
+              style="height: 300px;"></iframe>
     </div>
   </div>
 
