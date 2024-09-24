@@ -17,6 +17,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/foley.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**REPARO: Compositional 3D Assets Generation with Differentiable 3D Layout Alignment** \\
+Zhiqi Huang<sup>★</sup> Dan Luo<sup>★</sup> Jun Wang<sup>†</sup> **Huan Liao** Zhiheng Li<sup>†</sup> Zhiyong Wu<sup>†</sup>
+
+[**[Project]**](https://angelalilyer.github.io/RhythmicFoley/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Paper]**](https://arxiv.org/abs/2409.08628) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
 ## 🧙 3D Generation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/reparo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
