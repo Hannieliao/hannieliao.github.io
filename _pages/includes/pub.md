@@ -36,6 +36,7 @@ Zhiqi Huang<sup>★</sup> Dan Luo<sup>★</sup> Jun Wang<sup>†</sup> **Huan Li
 
 [**[Project]**](https://angelalilyer.github.io/RhythmicFoley/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Paper]**](https://arxiv.org/abs/2409.08628) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+- An innovative framework for video-to-audio synthesis, characterized by semantic integrity and precise beat point synchronization.
 </div>
 </div>
 
@@ -49,5 +50,6 @@ Haonan Han<sup>★</sup>, Rui Yang<sup>★</sup>, **Huan Liao**<sup>★</sup>, J
 [**[Project]**](https://reparo2024.github.io/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Paper]**](https://arxiv.org/pdf/2405.18525) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Code]**](https://github.com/VincentHancoder/REPARO?tab=readme-ov-file) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+- A novel approach for compositional 3D asset generation from single images.
 </div>
 </div>
