@@ -17,6 +17,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/temporal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Controllable Text-to-Audio Generation with Training-Free Temporal Guidance Diffusion** \\
+Tianjiao Du, Jun Chen, Jiasheng Lu, Qinmei Xu, **Huan Liao**, Yupeng Chen, Zhiyong Wu<sup>†</sup>
+
+[**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10687830) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+- Training-free approach for controllable TTA generation based on the location and duration of corresponding sound events.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/foley.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
