@@ -28,7 +28,7 @@ Tianjiao Du, Jun Chen, Jiasheng Lu, Qinmei Xu, **Huan Liao**, Yupeng Chen, Zhiyo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/foley.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/foley.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Rhythmic Foley: A Framework for Seamless Audio-Visual Alignment in Video-to-Audio Synthesis** \\
