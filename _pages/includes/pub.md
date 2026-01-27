@@ -1,6 +1,6 @@
 # 📝 Publications 
 ## 🎙 Text-to-Speech Generation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/baton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/emilia-nv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Emilia-NV: A Non-Verbal Speech Dataset with Word-Level Annotation for Human-Like Speech Modeling** \\
@@ -17,7 +17,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/baton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/speechjudge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SpeechJudge: Towards Human-Level Judgment for Speech Naturalness** \\
