@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.01*: One Paper of human-level judgment modeling for speech naturalness is accepted by **ICLR 2026**.
+- *2026.01*: One Paper of a scalable pipeline for human-like speech modeling with paralinguistic vocalizations is accepted by **ICASSP 2026**.
 - *2025.06*: One Paper of a two-stage compositional 3D generation is accepted by **ICCV 2025**.
 - *2025.02*: One Paper of aligning text-to-motion model with RLAIF is accepted by **CVPR 2025**.
 - *2024.12*: One Paper of Video-to-Audio generation is accepted by **ICASSP 2025**.
